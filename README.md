@@ -6,8 +6,10 @@
 
 [https://app.eraser.io/workspace/crlvjAoYkioBv90YqqsE](https://app.eraser.io/workspace/crlvjAoYkioBv90YqqsE)
 
+![Screenshot (71)](https://github.com/simplybest12/E_Commerce_backend/assets/106909291/5513e97a-0141-432f-b9df-b17034e10eb4)
 
-  
+  ![Screenshot (72)](https://github.com/simplybest12/E_Commerce_backend/assets/106909291/038e2cc9-b815-42f1-a435-426a98836eb5)
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
@@ -80,8 +82,12 @@ In the auth.py file implement user authentication using OAuth2 and JWT tokens fo
 ```
 Use the interactive API documentation provided by FastAPI (Swagger UI) to test the endpoints by navigating to http://127.0.0.1:8000/docs
 ```
+<h2>💻 Project Source Code ScreenShot</h2>
+  ![Screenshot 2023-11-25 012831](https://github.com/simplybest12/E_Commerce_backend/assets/106909291/6fea4c6c-6223-44fc-9066-50f484c24a68)
+![Screenshot 2023-11-25 012751](https://github.com/simplybest12/E_Commerce_backend/assets/106909291/9e9924ac-ed65-4de8-83a3-549a746edac5)
+![Screenshot 2023-11-25 011543](https://github.com/simplybest12/E_Commerce_backend/assets/106909291/e96dac60-659f-45ef-94fe-443170d0c6d3)
+![Screenshot 2023-11-25 011511](https://github.com/simplybest12/E_Commerce_backend/assets/106909291/f88f595c-3ef8-4aaf-9ba3-8cbea9922573)
 
-  
   
 <h2>💻 Built with</h2>
 
